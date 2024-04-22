@@ -21,7 +21,7 @@
 1. Use `node main.js` to run the game
 1. Achieve green checks for each of your unit tests.
 
-### Hints
+### Hintsns
 
 1. Run your unit tests first!!
 1. Use [repl.it](https://www.repl.it) to write the solution code first. (its a faster environment vs using the `node main.js` command over and over again.)
